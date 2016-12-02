@@ -11,7 +11,6 @@
 #import <Tweaks/_FBTweakColorViewControllerDataSource.h>
 #import <Tweaks/FBTweakShakeWindow.h>
 #import <Tweaks/_FBTweakCategoryViewController.h>
-#import <Tweaks/FBTweakEnabled.h>
 #import <Tweaks/_FBTweakColorViewController.h>
 #import <Tweaks/_FBColorUtils.h>
 #import <Tweaks/FBTweakStore.h>
