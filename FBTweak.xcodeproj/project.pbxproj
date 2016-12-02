@@ -101,6 +101,7 @@
 		D810C3431DF1BF02003427DA /* _FBSliderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E1708C31905B89800402135 /* _FBSliderView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D810C3441DF1BF02003427DA /* _FBKeyboardManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E1708DB190B147000402135 /* _FBKeyboardManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D810C3451DF1BF02003427DA /* _FBColorUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E1F48E91901E4D500D7C4A2 /* _FBColorUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D810C34A1DF1C281003427DA /* FBTweakEnabled.h in Headers */ = {isa = PBXBuildFile; fileRef = 18EFE535189F38D500DA6A5D /* FBTweakEnabled.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -425,6 +426,7 @@
 				D810C33F1DF1BF02003427DA /* _FBTweakColorViewControllerHSBDataSource.h in Headers */,
 				D810C33E1DF1BF02003427DA /* _FBTweakColorViewControllerRGBDataSource.h in Headers */,
 				D810C3391DF1BF02003427DA /* _FBTweakTableViewCell.h in Headers */,
+				D810C34A1DF1C281003427DA /* FBTweakEnabled.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
