@@ -15,3 +15,7 @@
 build/
 
 Pods
+/.build
+/.swiftpm
+/FBTweak.xcodeproj/project.xcworkspace/xcshareddata
+/Tweaks.xcodeproj
