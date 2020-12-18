@@ -24,14 +24,15 @@ let package = Package(
             exclude: [
 				"FBTweak/Tweaks/README.md",
 				"FBTweak/FBTweak-Prefix.pch",
-            ]
+            ],
+            publicHeadersPath: "FBTweak"
         ),
         .testTarget(
             name: "TweaksTests",
             dependencies: ["Tweaks"],
             path: "FBTweakTests",
             exclude: [
-				"FBTweakTests/en.lproj"
+				"FBTweakTests/FBTweakTests-Info.plist"
 			]
         ),
     ]
