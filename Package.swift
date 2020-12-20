@@ -22,8 +22,8 @@ let package = Package(
             dependencies: [],
             path: "FBTweak",
             exclude: [
-				"FBTweak/Tweaks/README.md",
-				"FBTweak/FBTweak-Prefix.pch",
+				"Tweaks/README.md",
+				"FBTweak-Prefix.pch",
             ],
             publicHeadersPath: ".",
             cxxSettings: [
