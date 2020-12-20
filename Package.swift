@@ -25,7 +25,10 @@ let package = Package(
 				"FBTweak/Tweaks/README.md",
 				"FBTweak/FBTweak-Prefix.pch",
             ],
-            publicHeadersPath: ""
+            publicHeadersPath: ".",
+            cxxSettings: [
+                .headerSearchPath(".")
+            ]
         ),
         .testTarget(
             name: "TweaksTests",
